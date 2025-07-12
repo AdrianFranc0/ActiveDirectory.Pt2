@@ -1,7 +1,7 @@
 # ActiveDirectory.Pt2
 This project is a continuation of my original Active Directory lab where I built a Windows Server Domain Controller from scratch. In Part 2, I focused on simulating real-world helpdesk and junior system administrator tasks, including user and group management, account provisioning, and permissions control using Organizational Units (OUs) and Group Policy Objects (GPOs).
 
-This phase highlights key Active Directory operations that reflect day-to-day responsibilities in enterprise IT support environments.
+This phase highlights key Active Directory operations that reflect day-to-day responsibilities in enterprise IT support environments. ( I will be adding more scenarios/ tasks to this in the future in progress...)
 
 ---
 

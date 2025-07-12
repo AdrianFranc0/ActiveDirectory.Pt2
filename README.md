@@ -5,11 +5,14 @@ This phase highlights key Active Directory operations that reflect day-to-day re
 
 ---
 
-<p align="center">
 ### User Accounts Created in Active Directory
-<p align="center"> <img src="https://i.imgur.com/2QjRx4S.png" width="600" style="height:auto;" alt="AD User List"> </p>
-Description:
-As part of the initial domain setup, user accounts were created in Active Directory to simulate employees from different departments.
+
+<p align="center">
+  <img src="https://i.imgur.com/2QjRx4S.png" width="600" style="height:auto;" alt="AD User List"> 
+</p>
+
+> **Description**: 
+> As part of the initial domain setup, user accounts were created in Active Directory to simulate employees from different departments.
 These users were added using a powershell script to reflect typical naming conventions and user provisioning tasks carried out by helpdesk or sysadmin staff.
 This foundational step allows for user specific policy testing, group assignments, and domain logins throughout the lab.
 
